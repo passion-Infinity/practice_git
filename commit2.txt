@@ -1,4 +1,2 @@
 FILE COMMIT2 
 This is commit 2.
-
-Change 1
