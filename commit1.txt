@@ -2,4 +2,3 @@ FILE COMMIT1.txt
 
 This is first commit.
 
-Commit bi sai
