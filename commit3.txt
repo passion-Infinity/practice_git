@@ -2,3 +2,4 @@ FILE COMMIT3
 This is commit 3
 
 Change 1
+Change 2
