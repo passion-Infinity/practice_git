@@ -3,3 +3,4 @@ FILE COMMIT1.txt
 This is first commit.
 
 Change 1
+Change 2
