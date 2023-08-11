@@ -1,1 +1,2 @@
 This is commit in feature 1
+This is commit in feature 2
